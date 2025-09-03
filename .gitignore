@@ -1,0 +1,4 @@
+*.txt
+
+.next
+/node_modules
